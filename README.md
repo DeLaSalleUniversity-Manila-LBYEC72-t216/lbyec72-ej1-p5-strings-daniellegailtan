@@ -15,6 +15,6 @@ Successful: Main Menu
 
 -----UPDATE-----
 
-![](Capture.PNG)
+![](Capture1.PNG)
 
 I separate the view and add first, combining it to check if it works because removing and searching still not working.
